@@ -8,7 +8,7 @@ This is a C# console application that solves a given Sudoku puzzle using **backt
 
 Here is a sample Sudoku puzzle (empty cells shown as blank):
 
-![Sudoku Puzzle](ee7d52fc-c053-4852-9793-0760dc93b0e6.png)
+![Sudoku Puzzle](Suduko.png)
 
 ---
 
